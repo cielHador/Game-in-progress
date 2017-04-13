@@ -1,5 +1,5 @@
 ## Major Project
-
+ I wish to create a jumping game that works like The Impossible Game.
 
 # Timeline:
 
