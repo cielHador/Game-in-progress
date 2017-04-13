@@ -1,5 +1,5 @@
-```diff
-+ Major Project
+```
+Major Project
 ```
 
 
