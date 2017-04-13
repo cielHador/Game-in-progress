@@ -1,7 +1,7 @@
 ``Major Project``
 
 
-##Timeline:
+#Timeline:
 
 Jumping improvement 1-2 weeks           [ ]
 Jumping on blocks 1-2 weeks             [ ]
@@ -13,7 +13,7 @@ Win screen 5 days                       [ ]
 
 
 
-##Must haves:
+#Must haves:
 
 Jumping improvement                      [ ]
 Jumping on blocks                        [ ]
@@ -23,7 +23,7 @@ Win screen                               [ ]
 
 
 
-##Nice to haves:
+#Nice to haves:
 
 Sound                                    [ ]
 Custom block                             [ ]
