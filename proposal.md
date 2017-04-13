@@ -1,6 +1,8 @@
 ## Major Project
  I wish to create a jumping game that works like The Impossible Game.
-
+ Jumping over blocks to survive, and if you hit certain objects you die.
+ 
+ 
 # Timeline:
 
 - [ ] Jumping improvement 1-2 weeks
