@@ -1,5 +1,5 @@
-```
-Major Project
+```ini
+ [ Major Project ] 
 ```
 
 
