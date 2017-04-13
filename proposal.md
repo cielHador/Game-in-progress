@@ -1,6 +1,5 @@
-Major Project
+``Major Project``
 
-----------
 
 Timeline:
 
@@ -13,7 +12,6 @@ Win screen 5 days                       [ ]
 
 
 
-----------
 
 Must haves:
 
@@ -23,7 +21,6 @@ Add red boxes that kill you when touched [ ]
 Level select                             [ ]
 Win screen                               [ ]
 
------------
 
 
 Nice to haves:
