@@ -1,6 +1,4 @@
-```
-##Major Project 
-```
+## Major Project
 
 
 # Timeline:
